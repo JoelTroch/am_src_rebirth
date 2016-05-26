@@ -1,0 +1,3 @@
+
+void SetupReverb();
+void CloseReverb();
