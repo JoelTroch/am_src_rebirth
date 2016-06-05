@@ -1,4 +1,4 @@
-ARRANGEMENT - SOURCE CODE - JANUARY 30TH 2011 - LICENSE
+ARRANGEMODE : REBIRTH - SOURCE CODE - LICENSE
 ======================
 
 This source code is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this source code.
